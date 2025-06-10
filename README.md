@@ -1,2 +1,2 @@
 # Portfolio
-Portfólio pessoal em desevolvimento
+Portfólio pessoal em desenvolvimento
